@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMultipleCompnies\obj\Debug\net6.0\EmployeeWageForMultipleCompnies.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMultipleCompnies\obj\Debug\net6.0\EmployeeWageForMultipleCompnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMultipleCompnies\obj\Debug\net6.0\EmployeeWageForMultipleCompnies.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMultipleCompnies\obj\Debug\net6.0\EmployeeWageForMultipleCompnies.AssemblyInfo.cs
+C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMultipleCompnies\obj\Debug\net6.0\EmployeeWageForMultipleCompnies.csproj.CoreCompileInputs.cache
