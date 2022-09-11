@@ -3,3 +3,13 @@ C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMulti
 C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMultipleCompnies\obj\Debug\net6.0\EmployeeWageForMultipleCompnies.AssemblyInfoInputs.cache
 C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMultipleCompnies\obj\Debug\net6.0\EmployeeWageForMultipleCompnies.AssemblyInfo.cs
 C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMultipleCompnies\obj\Debug\net6.0\EmployeeWageForMultipleCompnies.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMultipleCompnies\bin\Debug\net6.0\EmployeeWageForMultipleCompnies.exe
+C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMultipleCompnies\bin\Debug\net6.0\EmployeeWageForMultipleCompnies.deps.json
+C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMultipleCompnies\bin\Debug\net6.0\EmployeeWageForMultipleCompnies.runtimeconfig.json
+C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMultipleCompnies\bin\Debug\net6.0\EmployeeWageForMultipleCompnies.dll
+C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMultipleCompnies\bin\Debug\net6.0\EmployeeWageForMultipleCompnies.pdb
+C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMultipleCompnies\obj\Debug\net6.0\EmployeeWageForMultipleCompnies.dll
+C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMultipleCompnies\obj\Debug\net6.0\refint\EmployeeWageForMultipleCompnies.dll
+C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMultipleCompnies\obj\Debug\net6.0\EmployeeWageForMultipleCompnies.pdb
+C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMultipleCompnies\obj\Debug\net6.0\EmployeeWageForMultipleCompnies.genruntimeconfig.cache
+C:\Users\Admin\source\repos\EmployeeWageForMultipleCompnies\EmployeeWageForMultipleCompnies\obj\Debug\net6.0\ref\EmployeeWageForMultipleCompnies.dll

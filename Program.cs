@@ -1,4 +1,4 @@
-﻿namespace EMPLOYEEWAGEPROBLEM
+﻿namespace EmployeeWageFormultipleCompnies
 {
     class Program
     {
@@ -25,4 +25,3 @@
         }
     }
 }
-Footer
