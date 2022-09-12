@@ -93,6 +93,14 @@ namespace EmployeeWageFormultipleCompnies
                 Console.WriteLine("Monthly wage for {0} is {1}", CompanyList[i], CompanyList[i + 1]);
             }
         }
+        public void view_Wage(string Name)
+        {
+            int Index = CompanyList.IndexOf(Name);
+            Console.WriteLine("Monthly wage for {0} with \n DailyWage={1} is {2}\n", CompanyList[Index],
+                   CompanyList[Index + 1], CompanyList[Index + 2]);
+
+        }
+
 
     }
 }
